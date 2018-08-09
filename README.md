@@ -1,2 +1,1 @@
-# CodingRound
-# Sequoia-Android-Test-Automation
+# ReflektiveCodingRound
